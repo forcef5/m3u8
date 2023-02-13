@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5.28
+https://s3.bestchillz.workers.dev/v/bcMjyo/hyKf1k6WOO/ZdWs4eziyvVGmneKDHKpx1/index.html
+#EXTINF:4.16
+https://s5.bestchillz.workers.dev/v/L7Kcp/hyJfakDEvL/NoMnIi5EAKDGLou5d0GWuK/index.html
+#EXTINF:6.6
+https://s4.bestchillz.workers.dev/v/baBo8E/hyJfaLIHga/Hf70FLhLW3tI54MzlMJPzk/index.html
+#EXTINF:3.48
+https://s3.bestchillz.workers.dev/v/bYVtnM/hyJeJAApmX/HlMu3XuNRiYavDOYfup2S1/index.html
+#EXTINF:4.88
+https://s1.bestchillz.workers.dev/v/dggAy1/hyKfRQkzBN/LlVMKruNAp0hMk2B0RHey0/index.html
+#EXT-X-ENDLIST
